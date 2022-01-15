@@ -1,10 +1,9 @@
 import MovieStars from "components/MovieStars";
-import './styles.css'
+import "./styles.css";
 
 function MovieScored() {
-
-    const score = 3.5;
-    const count = 3;
+  const score = 3.5;
+  const count = 3;
   return (
     <div className="dsmovie-score-container">
       <p className="dsmovie-score-value">
