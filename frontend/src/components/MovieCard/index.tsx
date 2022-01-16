@@ -1,15 +1,13 @@
 import MovieScored from "components/MovieScore";
-import { type } from "os";
+
 import { Link } from "react-router-dom";
 import { Movie } from "types/movie";
 
-type Props= {
-  movie:Movie
-}
+type Props = {
+  movie: Movie;
+};
 
-
-function MovieCard({movie}: Props) {
-  
+function MovieCard({ movie }: Props) {
   return (
     <div>
       <img
@@ -19,11 +17,10 @@ function MovieCard({movie}: Props) {
       />
       <div className="dsmovie-card-bottom-container">
         <h3>{movie.title}</h3>
-        <MovieScored count={movie.count} score={movie.score}/>
+        <MovieScored count={movie.count} score={movie.score} />
         <Link to={`/form/${movie.id}`}>
-        <div className="btn btn-primary dsmovie-btn">Avaliar</div>
+          <div className="btn btn-primary dsmovie-btn">Avaliar</div>
         </Link>
-        
       </div>
     </div>
   );
