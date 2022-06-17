@@ -28,8 +28,8 @@ DSMovie é um aplicativo Web Full Stack que mantém uma coleção de filmes e su
 
 <div align="center">
   <h2>Desktop</h2>
-  <img height="227.46" width="450" src="https://github.com/Romariorfr/dsmovie/blob/master/frontend/assets/dsmovie-pc.png" alt="Movies list page on desktop"/>
-  <img height="227.46" src="https://github.com/Romariorfr/dsmovie/blob/master/frontend/assets/dsmovie-card.jpg" alt="Movie form page on desktop"/>
+  <img height="227.46" width="450" src="https://github.com/Romariorfr/projeto_dsmovie/blob/master/frontend/assets/dsmovie-pc.png" alt="Movies list page on desktop"/>
+  <img height="227.46" src="https://github.com/Romariorfr/projeto_dsmovie/blob/master/frontend/assets/dsmovie-card.jpg" alt="Movie form page on desktop"/>
 </div>
 
 
