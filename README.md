@@ -1,5 +1,6 @@
 
-# DSMovie 📺
+<H1 align="center">DSMovie :film_strip: </h1>
+
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Romariorfr/dsmovie/blob/master/LICENSE) 
 
 
@@ -11,16 +12,6 @@
   <a href="https://romario-dsmovie.herokuapp.com">Link da API</a><br>
   <a href="https://romario-dsmovie.herokuapp.com">Documentação</a>
 </p>
-
-
-## 💻 Sobre o projeto
-DSMovie é um aplicativo Web Full Stack que mantém uma coleção de filmes e suas respectivas classificações, a página permite a interação do usuário, o qual pode realizar a avaliação individual de cada filme fornecendo de 1 a 5 estrelas. A aplicação também mostra o total de avaliações para cada título e a média final de estrelas. Cada Avaliação armazena no banco os dados informados, como email e a quantidade de estrelas para o título selecionado.
-
-
-## ⚙️ Funcionalidades
-
-- [x] Usuários podem ter interação com a classificação dos filmes listados na web
-
 
 
 <div align="center">
@@ -37,8 +28,17 @@ DSMovie é um aplicativo Web Full Stack que mantém uma coleção de filmes e su
 </div>
 <br><br>
 
+## 💻 Sobre o projeto
+DSMovie é um aplicativo Web Full Stack que mantém uma coleção de filmes e suas respectivas classificações, a página permite a interação do usuário, o qual pode realizar a avaliação individual de cada filme fornecendo de 1 a 5 estrelas. A aplicação também mostra o total de avaliações para cada título e a média final de estrelas. Cada Avaliação armazena no banco os dados informados, como email e a quantidade de estrelas para o título selecionado.
 
-## Tecnologias utilizadas
+
+## ⚙️ Funcionalidades
+
+- [x] Usuários podem ter interação com a classificação dos filmes listados na web
+
+
+
+## :books: Tecnologias utilizadas
 ### Back end
 - Java
 - Spring Boot
@@ -68,7 +68,7 @@ DSMovie é um aplicativo Web Full Stack que mantém uma coleção de filmes e su
 
 
 
-# Author
+## :astronaut: Author 
 
 Romário Ferreira de Rezende
 
