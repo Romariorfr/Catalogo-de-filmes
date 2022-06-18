@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://dsmovie-romariof.netlify.app">Link do site</a><br>
   <a href="https://romario-dsmovie.herokuapp.com">Link da API</a><br>
-  <a href="https://romario-dsmovie.herokuapp.com">Documentação</a>
+  <a href="https://romario-dsmovie.herokuapp.com/swagger-ui.html">Documentação</a>
 </p>
 
 
