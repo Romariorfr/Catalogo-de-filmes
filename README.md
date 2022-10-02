@@ -13,20 +13,14 @@
   <a href="https://romario-dsmovie.herokuapp.com/swagger-ui.html">Documentação</a>
 </p>
 
-
-<div align="center">
-  <h2>Desktop</h2>
-  <img height="227.46" width="450" src="https://github.com/Romariorfr/projeto_dsmovie/blob/master/frontend/assets/dsmovie-pc.png" alt="Movies list page on desktop"/>
-  <img height="227.46" src="https://github.com/Romariorfr/projeto_dsmovie/blob/master/frontend/assets/dsmovie-card.jpg" alt="Movie form page on desktop"/>
-</div>
+## Desktop
+<img src="https://github.com/Romariorfr/img-app/blob/master/img-app/img6.png"  /> 
 
 
-<div align="center">
-  <h2>Mobile</h2>
-  <img height="491" src="https://github.com/Romariorfr/projeto_dsmovie/blob/master/frontend/assets/dsmovie-mobile2.jpeg" alt="Movies list page on mobile" />
-  <img height="491" src="https://github.com/Romariorfr/projeto_dsmovie/blob/master/frontend/assets/dsmovie-mobile.jpg" alt="Movie form page on mobile" />
-</div>
-<br><br>
+ Page initial                |        Navegation         |       Avaliation
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/Romariorfr/img-app/blob/master/img-app/img1.png?alt=media&token=895bf20f-2ffb-4bb9-8127-b8b8e71c2323)|![](https://github.com/Romariorfr/img-app/blob/master/img-app/img2.png?alt=media&token=49564f27-5395-4ec3-8e7b-fc5ea28232aa)|![](https://github.com/Romariorfr/img-app/blob/master/img-app/img4.png?alt=media&token=e1eb8faa-0539-4e9f-8bd7-fe1a2d82f09a)
+
 
 ## 💻 Sobre o projeto
 DSMovie é um aplicativo Web Full Stack que mantém uma coleção de filmes e suas respectivas classificações, a página permite a interação do usuário, o qual pode realizar a avaliação individual de cada filme fornecendo de 1 a 5 estrelas. A aplicação também mostra o total de avaliações para cada título e a média final de estrelas. Cada Avaliação armazena no banco os dados informados, como email e a quantidade de estrelas para o título selecionado.
