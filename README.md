@@ -17,7 +17,7 @@
 <img src="https://github.com/Romariorfr/img-app/blob/master/img-app/img6.png"  /> 
 
 
- Page initial                |        Navegation       |       Avaliation        |    Warnings
+ Page initial                |        Navegation       |       Avaliation        |    Validation
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------
 ![](https://github.com/Romariorfr/img-app/blob/master/img-app/img1.png)|![](https://github.com/Romariorfr/img-app/blob/master/img-app/img2.png?alt=media&token=49564f27-5395-4ec3-8e7b-fc5ea28232aa)|![](https://github.com/Romariorfr/img-app/blob/master/img-app/img4.png?alt=media&token=e1eb8faa-0539-4e9f-8bd7-fe1a2d82f09a)|![](https://github.com/Romariorfr/img-app/blob/master/img-app/img5.png)
 
