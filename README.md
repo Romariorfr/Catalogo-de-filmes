@@ -5,7 +5,8 @@
 
 
 <H3 align="center"> Projeto semana Spring+React DevSuperior.</H3>
-<H4 align="center">Aplicação Web para avaliação de filmes desenvolvida durante a Semana Spring React</H4>
+<H4 align="center">É uma aplicação web desenvolvida durante um evento de programação denominado Semana Spring React.
+Essa aplicação tem como objetivo permitir a avaliação de filmes e foi criada utilizando as tecnologias Spring e React.</H4>
 
 <p align="center">
   <a href="https://dsmovie-romariof.netlify.app">Link do site</a><br>
@@ -23,14 +24,17 @@
 
 
 ## 💻 Sobre o projeto
-DSMovie é um aplicativo Web Full Stack que mantém uma coleção de filmes e suas respectivas classificações, a página permite a interação do usuário, o qual pode realizar a avaliação individual de cada filme fornecendo de 1 a 5 estrelas. A aplicação também mostra o total de avaliações para cada título e a média final de estrelas. Cada Avaliação armazena no banco os dados informados, como email e a quantidade de estrelas para o título selecionado.
+O DSMovie é um aplicativo web Full Stack que mantém uma coleção de filmes e suas respectivas classificações. A página oferece uma interface interativa para o usuário, que pode realizar a avaliação individual de cada filme, atribuindo uma classificação de 1 a 5 estrelas. A aplicação também exibe o número total de avaliações para cada título e a média final de estrelas. Cada avaliação é armazenada no banco de dados, juntamente com os dados do usuário, como o endereço de e-mail e a quantidade de estrelas atribuída ao título selecionado.
 
 
 ## ⚙️ Funcionalidades
 
-- [x] Usuários podem ter interação com a classificação dos filmes listados na web
-
-
+- [x] Manter uma coleção de filmes e suas respectivas classificações.
+- [x] Permitir a interação do usuário com a aplicação web.
+- [x] Permitir ao usuário realizar a avaliação individual de cada filme, fornecendo uma classificação de 1 a 5 estrelas.
+- [x] Exibir o total de avaliações para cada título.
+- [x] Calcular e exibir a média final de estrelas atribuídas a cada filme.
+- [x] Armazenar no banco de dados as avaliações e os dados do usuário, como endereço de e-mail e quantidade de estrelas atribuída ao título selecionado.
 
 ## :books: Tecnologias utilizadas
 ### Back end
@@ -60,11 +64,9 @@ DSMovie é um aplicativo Web Full Stack que mantém uma coleção de filmes e su
 - Front end web: Netlify
 - Banco de dados: Postgresql
 
-
-
 ## :astronaut: Author 
 
-Romário Ferreira de Rezende
+Romário Ferreira de Rezende / Desenvolvedor Web Full stack
 
 https://www.linkedin.com/in/romarioferreiradeveloper
 
