@@ -14,6 +14,9 @@ Essa aplicação tem como objetivo permitir a avaliação de filmes e foi criada
   <a href="https://romario-dsmovie.herokuapp.com/swagger-ui.html">Documentação</a>
 </p>
 
+
+
+
  Desktop                   |        
 :-------------------------:|
 ![](https://github.com/Romariorfr/img-app/blob/master/img-app/img6.png)
