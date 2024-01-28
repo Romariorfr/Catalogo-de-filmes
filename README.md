@@ -56,6 +56,27 @@ O DSMovie é um aplicativo web Full Stack que mantém uma coleção de filmes e 
 
 ## Como Rodar Este Projeto Localmente
 
+### Ferramentas Necessárias
+
+1. **Node.js e npm:** 
+   - Versão mínima do Node.js: 14.x
+   - [Download do Node.js](https://nodejs.org/)
+
+2. **Yarn:**
+   - Utilizamos o Yarn como gerenciador de pacotes.
+   - Instale o Yarn com o seguinte comando no terminal:
+     ```bash
+     npm install -g yarn
+     ```
+
+3. **Maven:**
+   - Maven é utilizado para construir o projeto backend.
+   - [Download do Maven](https://maven.apache.org/)
+
+### Instalação de Dependências
+
+Após clonar o repositório, navegue até as pastas `/backend` e `/frontend` e execute os seguintes comandos:
+
 ### Backend
 
 1. **Navegue até a pasta `/backend` do projeto:**
