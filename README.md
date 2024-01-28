@@ -8,14 +8,6 @@
 <H4 align="center">É uma aplicação web desenvolvida durante um evento de programação denominado Semana Spring React.
 Essa aplicação tem como objetivo permitir a avaliação de filmes e foi criada utilizando as tecnologias Spring e React.</H4>
 
-<p align="center">
-  <a href="https://dsmovie-romariof.netlify.app">Link do site</a><br>
-  <a href="https://romario-dsmovie.herokuapp.com">Link da API</a><br>
-  <a href="https://romario-dsmovie.herokuapp.com/swagger-ui.html">Documentação</a>
-</p>
-
-
-
 
  Desktop                   |        
 :-------------------------:|
@@ -62,10 +54,45 @@ O DSMovie é um aplicativo web Full Stack que mantém uma coleção de filmes e 
 - Bootstrap
 - Axios
 
-## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
-- Banco de dados: Postgresql
+## Como Rodar Este Projeto Localmente
+
+### Backend
+
+1. **Navegue até a pasta `/backend` do projeto:**
+    ```bash
+    cd Catalogo-de-filmes/backend
+    ```
+
+2. **Execute o comando para construir o projeto:**
+    ```bash
+    mvn clean install
+    ```
+
+3. **Após a construção, inicie o backend:**
+    ```bash
+    java -jar target/dsmovie-0.0.1-SNAPSHOT.jar
+    ```
+
+4. O backend estará rodando em [http://localhost:8080](http://localhost:8080).
+
+### Frontend
+
+1. **Navegue até a pasta `/frontend` do projeto:**
+    ```bash
+    cd Catalogo-de-filmes/frontend
+    ```
+
+2. **Abra um terminal e instale as dependências com o comando:**
+    ```bash
+    yarn install
+    ```
+
+3. **Após a instalação, inicie a aplicação com o comando:**
+    ```bash
+    yarn start
+    ```
+
+Agora, você pode seguir essas instruções para configurar e executar o projeto localmente em sua máquina. Se encontrar algum problema, certifique-se de seguir as instruções cuidadosamente e verifique se todas as dependências foram instaladas corretamente. Enjoy! 🚀
 
 ## :astronaut: Author 
 
